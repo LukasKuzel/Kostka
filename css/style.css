@@ -1,0 +1,28 @@
+.pozadi {
+    background-image: url(../img/H.jpg);
+}
+
+.mid {
+    text-align: center;
+}
+
+.tluste {
+    text-align: center;
+    font-weight: bold;
+    font-weight: 900;
+    color: white;
+}
+
+.tluste2 {
+    text-align: center;
+    font-weight: bold;
+    font-weight: 900;
+    color: gold;
+}
+
+.tluste3 {
+    text-align: center;
+    font-weight: bold;
+    font-weight: 900;
+    color: darkorchid;
+}
